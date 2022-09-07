@@ -86,6 +86,7 @@ button:active {
 /* media query */
 @media screen and (max-width : 1000px) {
     .quote-container {
+        min-width: 10px;
         margin: auto 10px;
     }
 
