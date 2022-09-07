@@ -53,6 +53,7 @@ body {
     margin-top: 15px;
     display: flex;
     justify-content: space-between;
+    width: 317px;
 }
 
 button {
@@ -80,9 +81,11 @@ button:active {
 .twitter-button:hover {
     color: #38a1f3;
 }
-.fa-twitter{
+
+.fa-twitter {
     font-size: 1.5rem;
 }
+
 /* media query */
 @media screen and (max-width : 1000px) {
     .quote-container {
